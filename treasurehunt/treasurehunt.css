@@ -1,0 +1,65 @@
+/* key value pairs */
+
+/* put the background here if it works */
+/* target a tag in HTML see the tag text note */
+/* property from CSS and a value */
+
+
+body {
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+  color:inherit;
+}
+h2 {
+  text-align: center;
+  color:inherit;
+}
+h3 {
+  text-align:center;
+  color: gold
+}
+ul {
+  text-align:center;
+  color: gold
+
+}
+div = Id
+ #p:hover {
+  text-align:center;
+  text-color: red;
+}
+
+
+}
+table {
+  margin: 0 auto;
+  border: 2px solid black;
+}
+td {
+  border: 2px solid black;
+  font-size: 20px;
+  height: 60px;
+  width: 150px;
+  text-align: center;
+  padding-left: 20px;
+
+}
+body {
+ background-image:url(https://cdn.pixabay.com/photo/2019/05/07/21/40/sea-4187151_1280.jpg);
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+  font-style: normal;
+  }
+
+#davey-jones-pic {
+  text-align: center;
+  opacity: 1;
+}
+.t-table {
+  font-family: cursive;
+  margin-left: auto;
+  margin-right: auto;
+}
